@@ -1,1 +1,1 @@
-# schoolcode
+# school-code
